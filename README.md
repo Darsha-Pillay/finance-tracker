@@ -8,9 +8,9 @@ Users can add transactions (income or expenses), categorize them, and instantly 
 
 ## Screenshots
 
-> _Add a screenshot or short GIF of the dashboard and form here._
->
-> `![Dashboard](./screenshots/dashboard.png)`
+![Dashboard](./screenshots/dashboard.png)
+
+![Add Transaction Form](./screenshots/add-transaction.png)
 
 ## Features
 
